@@ -22,18 +22,11 @@ Others:           ADO.NET, Entity Framework, Razor Views
 - 🔹 Design and build **inventory management systems**.
 - 🔹 Optimize queries and improve application performance.
 
-### 📈 My GitHub Stats:
-
-![Jainam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-### 🔥 Most Used Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ### 📫 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainam-swami)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAINAMSWAMI)
 
 ⚡ **Fun Fact:** I love solving real-world problems with technology and constantly exploring new ways to enhance my development skills!
 
